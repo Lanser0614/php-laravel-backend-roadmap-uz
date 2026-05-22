@@ -456,7 +456,7 @@ Backend engineer uchun faqat framework bilish yetarli emas. Computer systems, OS
 
 Developer kompetensiyalarini tekshirish va o‘sish yo‘nalishlarini ko‘rish uchun:
 
-- [Google Sheets — Kompetensiyalar jadvali](https://docs.google.com/spreadsheets/d/1qO5GjpEAB0EDdLAtxFbtGcpaOUiU4I6t2ZJyiWt8JPg/edit?usp=sharing)
+- [Google Sheets — Kompetensiyalar jadvali](https://docs.google.com/spreadsheets/d/1mblKZrIhZMGFCn02LVyKSgk8gish_VKB4Dsva0ZadOE/edit?usp=sharing)
 
 ---
 
